@@ -1,2 +1,1 @@
-# Easy_termux
- this tool was beginner for termux app
+This tool was designed for beginners using the Termux app.
