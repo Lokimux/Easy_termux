@@ -1,3 +1,0 @@
-pkg install sl
-pkg install zphisher
-pkg install cacalab
